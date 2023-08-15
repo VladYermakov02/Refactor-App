@@ -3,7 +3,7 @@
 # Server Client App for Linux
 ### The project was created with a small team at university during laboratory work, so sorry for the bad namings of variables/functions/classes, etc. Everybody was doing only their part, mostly.
 ## Abstract
-Welcome to the custom code editor project, a labor of me and my small university team where We've designed a tool to streamline the coding experience.
+Welcome to the custom code editor project, a labor of me and my small university team where we've designed a tool to streamline the coding experience.
 
 Features:
 - Variable Rename;
